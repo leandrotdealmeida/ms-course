@@ -1,10 +1,10 @@
-package com.devjapa.hrworker;
+package com.devjapa.apigateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HrWorkerApplicationTests {
+class HrApiGatewayZuulApplicationTests {
 
 	@Test
 	void contextLoads() {
